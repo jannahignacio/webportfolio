@@ -1,0 +1,20 @@
+body, #card, nav {
+	background-color: #D7CEC7;
+	font-family: 'Lato', Georgia;
+	color: #565656;
+}
+
+a {
+	text-decoration: none;
+	color: #76323F;
+}
+
+h1, h4, h2, h5 {
+	font-family: 'Playfair Display', verdana;
+	color: #76323F;
+}
+
+h3 {
+	font-family: 'Playfair Display', verdana;
+	color: #565656;
+}
