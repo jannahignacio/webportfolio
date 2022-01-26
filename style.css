@@ -148,4 +148,22 @@ div.contact {
   	font-size: 15px !important;
   	line-height: 80%;
   }
+  div.disclaimer {
+  	font-size: 10px !important;
+  	line-height: 80%;
+  }
+}
+
+button.search {
+	font-size: 'Lato';
+	color: #565656;
+	border-color: whitesmoke;
+}
+
+a.card-link {
+	color: whitesmoke;
+}
+
+div.disclaimer {
+	font-size: 15px;
 }
