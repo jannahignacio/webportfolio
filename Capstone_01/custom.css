@@ -1,0 +1,42 @@
+body {
+     background-color: #D8EBF5;
+}
+
+
+nav, section {
+	font-family: 'Outfit', sans-serif;
+	font-size: 15px;
+	color: #09354D;
+     background-color: #D8EBF5;
+}
+
+a, p {
+     font-size: 20px;
+     color: inherit;
+}
+
+h1 {
+     font-size: 4rem;
+     font-family: 'Dancing Script', sans-serif;
+
+ }
+
+#logo:hover {
+     text-decoration: none;
+     color: none;
+     background-color: none;
+     border-radius: none;
+     border-style: none;
+     border-color: none;
+}
+
+a:hover {
+      text-decoration: none;
+      color: inherit;
+      background-color: none;
+      border-radius: 5px;
+      border-style: solid;
+      border-color: black;
+ }
+
+
