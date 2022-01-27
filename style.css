@@ -4,7 +4,7 @@ html {
 
 body {
 	background-color: #c3c3c3;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato';
 	color: #565656;
 }
 
@@ -13,11 +13,13 @@ nav ul {
 	color: #C09F80;
 	font-style: bold;
 	font-size: 1rem;
+	font-weight: 100px;
 }
 
 .navbar {
 	background-color: #c3c3c3;
 	overflow-x: hidden;
+	color: #565656;
 }
 
 div.img-background {
@@ -47,12 +49,6 @@ div.welcome {
 	font-weight: 20px;
 }
 
-div.intro {
-	font-family: 'Playfair Display';
-	font-size: 18px;
-	font-style: italic;
-	color: black;
-}
 div.jannah {
 	font-family: 'Playfair Display';
 	font-size: 35px;
@@ -63,7 +59,7 @@ div.jannah {
 div.webdev {
 	font-family: 'Lato';
 	font-family: 18px;
-	color: black;
+	color: ghostwhite;
 }
 
 section-portfolio {
@@ -71,16 +67,17 @@ section-portfolio {
 }
 
 div.par-portfolio {
-	text-align: center;
 	border-style: solid;
 	border-width: 5px;
 	border-color: #585858;
 	font-size: 1rem;
+	min-height: 100px;
 }
 
 a {
 	text-decoration: none;
-	color: #76323F;
+	color: #88001b;
+	font-size: 20px;
 }
 
 h1.header {
@@ -134,9 +131,15 @@ div.contact {
     margin-top: 10px;
   }
   div.jannah {
-  	font-size: 30px !important;
+  	font-size: 25px !important;
     line-height: 80%;
     margin-top: 10px;
+  }
+
+  div.webdev {
+  	font-size: 13px !important;
+  	line-height: 80%;
+  	margin-top: 10px;
   }
 
   h2.header-sub{
